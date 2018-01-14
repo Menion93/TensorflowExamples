@@ -7,5 +7,6 @@ In this git repository are stored different NN Architecture written in Tensorflo
 - RNN built from scratch
 - RNN built with Tensorflow module
 - LSTM with embedding
+- Autoencoder with Keras
 
 The code is taken from the the book "Learning TensorFlow: A Guide to Building Deep Learning Systems"
